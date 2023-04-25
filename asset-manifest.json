@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.4d577064.css",
-    "main.js": "/my-app/static/js/main.25c0a1bc.js",
-    "static/media/project2screenshot.png": "/my-app/static/media/project2screenshot.711849b690de5aeb57dc.png",
-    "static/media/movienight_screenshot.png": "/my-app/static/media/movienight_screenshot.14c621f8556e9162f58a.png",
-    "static/media/comingsoon.jpg": "/my-app/static/media/comingsoon.d5afa083f51299f93875.jpg",
-    "index.html": "/my-app/index.html",
-    "main.4d577064.css.map": "/my-app/static/css/main.4d577064.css.map",
-    "main.25c0a1bc.js.map": "/my-app/static/js/main.25c0a1bc.js.map"
+    "main.css": "/WEEK-20-REACT-PORTFOLIO/static/css/main.4d577064.css",
+    "main.js": "/WEEK-20-REACT-PORTFOLIO/static/js/main.e4533ca0.js",
+    "static/media/project2screenshot.png": "/WEEK-20-REACT-PORTFOLIO/static/media/project2screenshot.711849b690de5aeb57dc.png",
+    "static/media/movienight_screenshot.png": "/WEEK-20-REACT-PORTFOLIO/static/media/movienight_screenshot.14c621f8556e9162f58a.png",
+    "static/media/comingsoon.jpg": "/WEEK-20-REACT-PORTFOLIO/static/media/comingsoon.d5afa083f51299f93875.jpg",
+    "index.html": "/WEEK-20-REACT-PORTFOLIO/index.html",
+    "main.4d577064.css.map": "/WEEK-20-REACT-PORTFOLIO/static/css/main.4d577064.css.map",
+    "main.e4533ca0.js.map": "/WEEK-20-REACT-PORTFOLIO/static/js/main.e4533ca0.js.map"
   },
   "entrypoints": [
     "static/css/main.4d577064.css",
-    "static/js/main.25c0a1bc.js"
+    "static/js/main.e4533ca0.js"
   ]
 }
